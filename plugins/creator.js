@@ -18,26 +18,20 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/841be897f35670e79d4d8.jpg'
+let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *Nama RP:* Letta
-${htjava} *Nama RL:* Aarav
-${htjava} *Umur:* 13 Tahun
-${htjava} *Kelas:* 7 Smp
-${htjava} *Status:* Couple
+❑ *Nama* :Bara
+❑ *Umur* :13 Tahun
+❑ *Kelas* :1 Smp
 
-${htjava} *Ulang Tahun:* 5 Oct 2008
-${htjava} *Alamat:* Indonesia, jawa barat, bogor
-${htjava} *Skills:* 
-> Node.JS [99.9%]
-> Python [32.4%]
-> Html [1.2%]
+❑ *Ulang Tahun* :18 Okto 2008
+❑ *Alamat* : Indonesia,Jawa Barat, Bandung
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'P - Pilih dibawah kak ! ⁄(⁄ ⁄•⁄-⁄•⁄ ⁄)⁄'
+  let teks = 'P - Pilih dibawah kak'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
@@ -51,7 +45,6 @@ const sections = [
 	rows: [
 	    {title: "💹 • Donasi", rowId: ".owner nomor"},
 	{title: "🔖 • Sewa", rowId: ".sewa"},
-	{title: "🌟 • Buy Premium", rowId: ".premium"},
 	]
   },
 ]
