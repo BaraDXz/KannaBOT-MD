@@ -1,18 +1,5 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
-let text = `*${htki} SOURCE CODE ${htka}*
-┌─❏
-│✦ *NON MD*
-│• *Script:*
-│➔ github.com/kannachann/kanna-wabot-update3
-│• *Base:*
-│➔ github.com/bochilgaming/games-wabot
-│
-│✦ *MULTI DEVICE*
-│• *Script:* 
-│➔ 🔒 Private
-│• *Base:*
-│➔ github.com/ilmanhdyt/ShiraoriBOT-Md
-❏────
+let text = `*${htki} MAU NGAPAIN OM ${htka}*
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '🐈 My Github', url: sgh}},
