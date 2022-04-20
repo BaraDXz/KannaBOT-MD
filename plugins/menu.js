@@ -145,7 +145,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
     let waofc = `@${'0'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
- let ow = `@${'62831433937633'.split('@')[0]}`
+ let ow = `@${'6283174508962'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
  let nurt = `@${'6281334177340'.split('@')[0]}`
  m, { contextInfo: { mentionedJid: conn.parseMention(tag) }}
