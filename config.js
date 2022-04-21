@@ -43,8 +43,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 global.sig = 'https://instagram.com/lampu_philips267'
 global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT'
-global.sdc = 'Yandex.care'
+global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
+global.sdc = 'https://t.me/BotzzMeeOFC'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
