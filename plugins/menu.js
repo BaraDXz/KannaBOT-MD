@@ -39,7 +39,7 @@ let tags = {
 
 const defaultMenu = {
   before: `
-──────━┅ *D A S H B O A R D* ┅━──────
+*┄┄┄┅┅❑ DASHBOARD ❑┅┅┄┄┄*
   
 %m1 *U S E R*
 %m2 *Name:* %name
@@ -342,7 +342,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
                 },
                 {
                     urlButton: {
-                        displayText: '🎮 DISCORD',
+                        displayText: '🎮 TELEGRAM',
                         url: sdc
                     }
                 },

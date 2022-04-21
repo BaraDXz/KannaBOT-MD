@@ -42,7 +42,6 @@ let info = `
 🗣️: Scam ga nih kak?
 💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
 
-▌│█║▌║▌║║▌║▌║█│▌
 `
 const sections = [
    {
