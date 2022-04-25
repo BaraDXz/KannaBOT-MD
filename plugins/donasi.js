@@ -6,7 +6,6 @@ let text = `
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
-│ • *Ovo:* [${global.povo}]
 │ • *Gopay:* [${global.pgopay}]
 │ • *Dana:* [${global.pdana}]
 ❏────
