@@ -53,7 +53,7 @@ global.povo = '083174508962'
 global.pgopay = '083174508962'
 global.ppulsa = '083174508962'
 global.ppulsa2 = '08979530736'
-global.psaweria = 'Yandex.care'
+global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '628979530736'
@@ -166,10 +166,10 @@ global.dmenuf = '┗––––––––––✦' //footer
 // COMMAND MENU
 global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
-global.cmenub = '┊✦ ' //body
+global.cmenub = '┊☃︎ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
-global.pmenus = '✦' //pembatas menu selector
+global.pmenus = '☃︎' //pembatas menu selector
 
 global.htki = '––––––『' //hiasan title kiri
 global.htka = '』––––––' //hiasan title kanan
