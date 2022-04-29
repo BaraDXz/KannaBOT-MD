@@ -7,7 +7,7 @@
 // • Bochilgaming
 // • Rominaru
 // • Kannachann
-// • The.sad.Boy01
+// • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
 // • Dll
@@ -92,26 +92,26 @@ global.APIs = { // API Prefix
   amel: 'https://melcanz.com',
   hardianto: 'https://hardianto.xyz',
   botstyle: 'https://botstyle-api.herokuapp.com',
-adiisus: 'https://adiixyzapi.herokuapp.com',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
   kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'cristian9407',
-  'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'rey2k21',
+  'https://api.xteam.xyz': 'APIKEY',
+  'https://anabotofc.herokuapp.com/': 'APIKEY',
+  'https://api.lolhuman.xyz': 'APIKEY',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://melcanz.com': 'wEDTUsWj',
+  'https://melcanz.com': 'APIKEY',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Eyar749L',
+  'https://botstyle-api.herokuapp.com': 'APIKEY',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
-
+// Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
