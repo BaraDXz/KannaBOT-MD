@@ -48,18 +48,18 @@ global.sdc = 'https://t.me/BotzzMeeOFC'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
+global.pdana = '082274400803'
+global.povo = '082274400803'
+global.pgopay = '089528284089'
+global.ppulsa = '082274400803'
+global.ppulsa2 = '089528284089'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorbot = '6289510157942'
+global.nomorown = '6282274400803'
 global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nameown = 'LexXD'
 
 
 /*============== STAFF ==============*/
