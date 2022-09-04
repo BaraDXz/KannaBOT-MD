@@ -48,26 +48,26 @@ global.sdc = 'https://t.me/BotzzMeeOFC'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '087887173186'
+global.psaweria = 'https://saweria.co/HarukaMD'
+global.pulsa = '081283186765'
+
+
+
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '6285693917497'
+global.nomorown = '6281283186765'
+global.namebot = 'ᴹᴿ᭄ HARUKA-MD ×፝֟͜×-Md【﻿ＸｘＹｚ】'
+global.nameown = 'HARUKA-MD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['6281283186765'],
+  ['6281283186765'],
+  ['6281283186765'],
+  ['6281283186765', 'HARUKA-MD【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
